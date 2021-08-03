@@ -1,0 +1,13 @@
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\bin\Debug\netcoreapp3.1\VanishreeConsoleApp.exe
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\bin\Debug\netcoreapp3.1\VanishreeConsoleApp.deps.json
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\bin\Debug\netcoreapp3.1\VanishreeConsoleApp.runtimeconfig.json
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\bin\Debug\netcoreapp3.1\VanishreeConsoleApp.runtimeconfig.dev.json
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\bin\Debug\netcoreapp3.1\VanishreeConsoleApp.dll
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\bin\Debug\netcoreapp3.1\VanishreeConsoleApp.pdb
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.csproj.AssemblyReference.cache
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.AssemblyInfoInputs.cache
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.AssemblyInfo.cs
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.csproj.CoreCompileInputs.cache
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.dll
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.pdb
+D:\Course backups\Dotnet\VanishreeArunDlithe\VanishreeConsoleApp\VanishreeConsoleApp\obj\Debug\netcoreapp3.1\VanishreeConsoleApp.genruntimeconfig.cache

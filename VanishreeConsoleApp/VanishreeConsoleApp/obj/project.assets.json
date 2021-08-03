@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Course backups\\Dotnet\\VanishreeArunDlithe\\VanishreeConsoleApp\\VanishreeConsoleApp\\VanishreeConsoleApp.csproj",
+      "projectUniqueName": "D:\\Course backups\\Dotnet\\VanishreeDotnet\\VanishreeConsoleApp\\VanishreeConsoleApp\\VanishreeConsoleApp.csproj",
       "projectName": "VanishreeConsoleApp",
-      "projectPath": "D:\\Course backups\\Dotnet\\VanishreeArunDlithe\\VanishreeConsoleApp\\VanishreeConsoleApp\\VanishreeConsoleApp.csproj",
+      "projectPath": "D:\\Course backups\\Dotnet\\VanishreeDotnet\\VanishreeConsoleApp\\VanishreeConsoleApp\\VanishreeConsoleApp.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Course backups\\Dotnet\\VanishreeArunDlithe\\VanishreeConsoleApp\\VanishreeConsoleApp\\obj\\",
+      "outputPath": "D:\\Course backups\\Dotnet\\VanishreeDotnet\\VanishreeConsoleApp\\VanishreeConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

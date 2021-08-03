@@ -6,7 +6,7 @@ namespace VanishreeConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dot net bootcamp welcomes you!");
+            
         }
     }
 }

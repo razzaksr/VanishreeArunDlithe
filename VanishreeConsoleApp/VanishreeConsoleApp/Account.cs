@@ -10,8 +10,19 @@ namespace VanishreeConsoleApp
         Int64 contact;
         String email;
         String address;
-        Item[] kart;
-        Item[] orders;
+        Item[] kart=new Item[10];
+        Item[] orders=new Item[30];
+
+        public Account() { }
+        public Account(String name,String address,Int64 contact,String email)
+        {
+            this.username = name;this.address = address;this.contact = contact;this.email = email;
+        }
+
+        public override string ToString()
+        {
+            return "Account details are " + username + " " + contact + " " + email + " " + address + "\n";
+        }
 
         //setters; getters
         public void setUsername(String username)
@@ -37,7 +48,10 @@ namespace VanishreeConsoleApp
         {
             this.email = email;
         }
-
+        public String getEmail()
+        {
+            return email;
+        }
         public void setAddress(String address)
         {
             this.address = address;
